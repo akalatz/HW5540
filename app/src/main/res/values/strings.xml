@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="hint">Enter your text </string>
+    <string name="Search_string">Search</string>
+</resources>
